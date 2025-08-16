@@ -1,0 +1,11 @@
+name: Operations
+github:
+  team: '@my-org/operations-team'
+owned_globs:
+  - app/**/1.rb
+  - app/**/2.rb
+  - app/**/3.rb
+  - app/**/4.rb
+  - app/**/5.rb
+  - app/**/6.rb
+  - app/**/7.rb
