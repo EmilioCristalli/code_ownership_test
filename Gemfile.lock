@@ -1,0 +1,22 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    code_ownership (1.39.0)
+      code_teams (~> 1.0)
+      packs-specification
+      sorbet-runtime (>= 0.5.11249)
+    code_teams (1.1.0)
+      sorbet-runtime
+    packs-specification (0.0.10)
+      sorbet-runtime
+    sorbet-runtime (0.5.12414)
+
+PLATFORMS
+  arm64-darwin-24
+  ruby
+
+DEPENDENCIES
+  code_ownership (= 1.39.0)
+
+BUNDLED WITH
+   2.7.0
