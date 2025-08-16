@@ -12,3 +12,6 @@ jobs:
         run: |
           bundle exec codeownership validate
           cat .github/CODEOWNERS
+      - name: Debug sort
+        run: |
+          ruby test.rb
