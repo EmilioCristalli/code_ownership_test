@@ -8,13 +8,14 @@
 
 
 # Team-specific owned globs
-/app/**/1.rb @my-org/operations-team
+/app/**/8.rb @my-org/operations-team
 /app/**/2.rb @my-org/operations-team
 /app/**/3.rb @my-org/operations-team
 /app/**/4.rb @my-org/operations-team
-/app/**/5.rb @my-org/operations-team
+/app/**/1.rb @my-org/operations-team
 /app/**/6.rb @my-org/operations-team
 /app/**/7.rb @my-org/operations-team
+/app/**/5.rb @my-org/operations-team
 
 # Team YML ownership
 /config/teams/operations.yml @my-org/operations-team

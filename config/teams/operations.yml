@@ -9,3 +9,4 @@ owned_globs:
   - app/**/5.rb
   - app/**/6.rb
   - app/**/7.rb
+  - app/**/8.rb
